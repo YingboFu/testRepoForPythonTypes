@@ -2,7 +2,7 @@
 def foo2(a: int, b: int) -> int:
     return a * b
 
-def foo(a: int, b: int) -> int:
+def foo(a: int, b: int) -> str:
     c = 0
     return a + b + c
 
